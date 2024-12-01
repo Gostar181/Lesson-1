@@ -19,4 +19,3 @@ print(sasha.height)
 print(masha.height)
 
 print(Student.amount_of_students)
-#vanya yzbek
