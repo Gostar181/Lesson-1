@@ -1,6 +1,6 @@
 import random
 import logging
-
+#
 logging.basicConfig(level=logging.INFO,
                     filename="sims-logs.log",
                     filemode="w",
